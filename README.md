@@ -21,6 +21,7 @@ Key Insights
 5. Average time to resolve incidents
 
 Dashboard Preview:
+
 ![image](https://github.com/user-attachments/assets/3c7a7102-e980-4c58-b163-efd578ec5b91)
 ![image](https://github.com/user-attachments/assets/86941f7c-c804-42bc-af39-0a957d624396)
 
